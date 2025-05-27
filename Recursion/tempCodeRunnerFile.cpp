@@ -1,0 +1,1 @@
+cout<<ReverseanArray(0,arr,r);
